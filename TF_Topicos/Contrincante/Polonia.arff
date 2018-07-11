@@ -1,0 +1,11 @@
+@relation 'data'
+@attribute 'PuntosFIFA' {'Bajo','Medio','Alto'}
+@attribute 'MediaGoles' {'Bajo','Alto'}
+@attribute 'ValorERival' {'Bajo','Alto'}
+@attribute 'Entidad' {'UEFA','CONMEBOL','Otros'}
+@attribute 'ValorExperto' {'Bajo','Medio','Alto'}
+@attribute 'Resultado' {'Derrota','Empate','Victoria'}
+@data
+"Alto","Alto","Bajo","UEFA","Medio","Victoria"
+"Alto","Alto","Bajo","UEFA","Medio","Empate"
+"Alto","Alto","Bajo","UEFA","Medio","Derrota"

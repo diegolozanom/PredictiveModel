@@ -1,0 +1,28 @@
+@relation 'data'
+@attribute 'PuntosFIFA' {'Bajo','Medio','Alto'}
+@attribute 'MediaGoles' {'Bajo','Alto'}
+@attribute 'ValorERival' {'Bajo','Alto'}
+@attribute 'Entidad' {'UEFA','CONMEBOL','Otros'}
+@attribute 'ValorExperto' {'Bajo','Medio','Alto'}
+@attribute 'Resultado' {'Derrota','Empate','Victoria'}
+@data
+"Medio","Bajo","Bajo","CONMEBOL","Bajo","Empate"
+"Medio","Alto","Bajo","Otros","Medio","Empate"
+"Alto","Bajo","Alto","UEFA","Medio","Victoria"
+"Bajo","Bajo","Bajo","Otros","Medio","Victoria"
+"Medio","Bajo","Bajo","Otros","Medio","Derrota"
+"Alto","Bajo","Bajo","CONMEBOL","Medio","Empate"
+"Medio","Bajo","Bajo","CONMEBOL","Bajo","Derrota"
+"Alto","Alto","Alto","CONMEBOL","Alto","Empate"
+"Medio","Bajo","Bajo","CONMEBOL","Bajo","Empate"
+"Medio","Bajo","Bajo","Otros","Alto","Victoria"
+"Alto","Alto","Alto","UEFA","Medio","Empate"
+"Alto","Alto","Alto","UEFA","Medio","Victoria"
+"Medio","Bajo","Bajo","CONMEBOL","Bajo","Victoria"
+"Alto","Alto","Alto","CONMEBOL","Alto","Derrota"
+"Alto","Alto","Alto","CONMEBOL","Medio","Derrota"
+"Alto","Bajo","Bajo","CONMEBOL","Alto","Empate"
+"Alto","Bajo","Bajo","CONMEBOL","Medio","Empate"
+"Medio","Bajo","Bajo","CONMEBOL","Bajo","Victoria"
+"Alto","Alto","Alto","CONMEBOL","Alto","Derrota"
+"Medio","Bajo","Bajo","CONMEBOL","Medio","Victoria"
